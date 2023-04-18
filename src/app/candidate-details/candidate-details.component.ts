@@ -14,6 +14,7 @@ import { LoginService } from '../services/login.service';
 })
 
 export class CandidateDetailsComponent implements OnInit {
+  
   CandidateList: any = [];
   model: any = {};
   submitted: boolean = false;
