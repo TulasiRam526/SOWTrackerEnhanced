@@ -10,6 +10,7 @@ import { HttpParams } from '@angular/common/http';
   templateUrl: './registration.component.html',
   styleUrls: ['./registration.component.css']
 })
+//hi
 export class RegistrationComponent implements OnInit {
   isAuthor: boolean = false;
   submitted:boolean=false;
